@@ -11,5 +11,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("BUILDING OUT MY APP");
+    printf("ZERO POINT TWO");
     return 0;
 }
